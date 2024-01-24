@@ -1,4 +1,4 @@
-# **Cryptic---The-new-age-Crypto-Web-App 🔮🌐🌎🛸**
+# **Cryptic-intelligent-crypto-investor-buddy 🔮🌐🌎🛸**
 
 ## **Intoduction:**
 This project is made as a part of the "EXECUTE 3.0" hackthon organized by Delhi Technological University (DTU)🏫🏫. Our project is a new age cryptocurrency and AI powered web app that brings the flexibility and power of **AI**🤖🛸🤖 with the unwavering trust of **crypto sites like CoinGecko, Binance, Metamask etc.🪙🪙**<br><br>
